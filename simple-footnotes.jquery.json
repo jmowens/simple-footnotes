@@ -1,0 +1,18 @@
+{
+    "name": "simple-footnotes",
+    "version": "0.1.0",
+    "title": "jQuery Simple Footnotes",
+    "description": "Plugin to add footnotes to a page.",
+    "author": {
+        "name": "Jason M. Owens"
+    },
+    "licenses": [
+        {
+            "type": "GPL-2.0",
+            "url": "http://opensource.org/licenses/GPL-2.0"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.10"
+    }
+}
